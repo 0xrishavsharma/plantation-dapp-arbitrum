@@ -1,5 +1,5 @@
 # Plantation Drive Contract on Arbitrum network
-We created a simple contract that stores the plants alloted to a volunteer and the anyone can retrieve the list of volunteers.
+A simple contract that stores the plants allotted to a volunteer and the anyone can retrieve the list of volunteers.
 
 This contract lives entirely on L2 and is a perfect example of how tools like Hardhat and Solidity can be used to easily deploy smart contracts to Arbitrum as well.
 
