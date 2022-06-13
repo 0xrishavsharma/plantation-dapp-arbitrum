@@ -8,5 +8,3 @@ This contract lives entirely on L2 and is a perfect example of how tools like Ha
     - Hardhat Development Environment
     - Network: Arbitrum Rinkeby
     - Alchemy: Used the Supernode tool to deploy our smart contract on the Arbitrum Rinkeby network.
-
-# Packages used:
